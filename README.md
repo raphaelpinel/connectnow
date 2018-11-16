@@ -1,4 +1,5 @@
 # connectnow
+
 A social network test app
 
 Built following Brad Traversy's MERN Stack course
@@ -9,4 +10,6 @@ Built following Brad Traversy's MERN Stack course
 installing dependencies:
 `npm i express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator`
 dev-dependencies:
-`npm i -D nodemon` 
+`npm i -D nodemon`
+Gravatar library:
+`npm i gravatar`
